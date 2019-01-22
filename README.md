@@ -1,12 +1,15 @@
 # Engineering Programming: Python EE 551
-Electrical and Computer Engineering Spring 2018 at Stevens Institute of Technology
+Electrical and Computer Engineering Spring 2019 at Stevens Institute of Technology
 
 * **Meeting Times:** 	Wednesdays at 3.00pm-5.30pm (session A) and 6.30pm-9.00pm (session B)
 * **Classroom Location:**	Main Campus, BC 319 (session A) and X 106 (session B)
 * **Instructor:** 		Assistant Prof. Sergul Aydore 	
 * **Contact Info:** 		Burchard Building 211, saydore@stevens.edu
 * **Teaching Assistants:**   Dov Neimand (kayakdov@gmail.com), Yangyang Tao (ytao13@stevens.edu)
-* **Office Hours:**		Wednesdays at 1.00pm-3.00pm
+* **Office Hours:**		
+  * Sergul Aydore: Burchard Building 211, Wednesdays at 1.00pm-3.00pm
+  * Dov Neimand: Burchard Building 414, Thursdays 15.00pm – 16.00pm
+  * Yangyang Tao: Burchard Building 414, Tuesdays 10.00am – 11.00am
 * **Course Web Address:**	https://github.com/sergulaydore/EE551-Spring-2018
 * **Cross-listed with:** 	CPE 551
 
