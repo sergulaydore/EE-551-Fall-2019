@@ -30,10 +30,10 @@ After successful completion of this course, students will be able to…
 * Materials:	 	Canvas will be used for sharing assignment links and grades
 
 ## COURSE REQUIREMENTS
-* **Attendance**	Attendance is crucial for an effective learning but will not be graded. 
-* **Homework** 	Coding assignments will be submitted via github and graded and tested in the cloud. Handwritten assignments will be returned at the beginning of a class.
-* **Project**	Students are expected to finish a project that is documented in their github repository. 
-* **Exams** 	There will be a single final hand-written exam.
+* **Attendance:**	Attendance is crucial for an effective learning but will not be graded. 
+* **Homework:** 	Coding assignments will be submitted via github and graded and tested in the cloud. Handwritten assignments will be returned at the beginning of a class.
+* **Project:**	Students are expected to finish a project that is documented in their github repository. 
+* **Exams:** 	There will be a single final hand-written exam.
 
 ## GRADING PROCEDURES
 Grades will be based on:
