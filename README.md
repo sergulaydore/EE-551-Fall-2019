@@ -40,3 +40,6 @@ Grades will be based on:
 * Assignments 		                    (30 %)
 * Project		                          (40 %)
 * Final Exam		                      (30 %)
+
+Late Policy: Assignments submitted after the deadline within a week will be graded half. They will not be graded after a week.
+
