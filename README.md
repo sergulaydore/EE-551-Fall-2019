@@ -34,3 +34,9 @@ After successful completion of this course, students will be able to…
 * **Homework** 	Coding assignments will be submitted via github and graded and tested in the cloud. Handwritten assignments will be returned at the beginning of a class.
 * **Project**	Students are expected to finish a project that is documented in their github repository. 
 * **Exams** 	There will be a single final hand-written exam.
+
+## GRADING PROCEDURES
+Grades will be based on:
+* Assignments 		                    (30 %)
+* Project		                          (40 %)
+* Final Exam		                      (30 %)
