@@ -48,12 +48,12 @@ Late Policy: Assignments submitted after the deadline within a week will be grad
  - This includes creation of a github repository with READ.md file that contains the summary of the project.
  - Late submissions will lose 30 points from their grade for the project.
 * Deadline for Projects 04/26/2019 Friday at 5pm ET
- - Projects will be graded based on
-  - the organization of the github repository (30 %)
-  - organization of the code                  (20 %)
-  - the quality of the code                   (20 %)
-  - inclusion of test codes                   (20 %)
-  - reproducibility                           (10 %)
+  - Projects will be graded based on
+    - the organization of the github repository (30 %)
+    - organization of the code                  (20 %)
+    - the quality of the code                   (20 %)
+    - inclusion of test codes                   (20 %)
+    - reproducibility                           (10 %)
 
 ## ACADEMIC INTEGRITY 
 
