@@ -16,12 +16,12 @@ This course presents fundamentals of Python programming language for data intens
 
 ## STUDENT LEARNING OUTCOMES
 After successful completion of this course, students will be able to…
-•	program basic algorithms in Python,
-•	extract and analyze data in Python,
-•	prepare for their future career in Technology related fields.
+*	program basic algorithms in Python,
+*	extract and analyze data in Python,
+*	prepare for their future career in Technology related fields.
 
 ## FORMAT AND STRUCTURE
-•	The classes will include dynamic illustrations of the concepts. Students are expected to bring their laptops and run the programs in their own laptops.
-•	There will be weekly coding or handwritten assignments. The students will return coding assignments via github which will be tested using continuous integration tool Travis-CI.
+*	The classes will include dynamic illustrations of the concepts. Students are expected to bring their laptops and run the programs in their own laptops.
+*	There will be weekly coding or handwritten assignments. The students will return coding assignments via github which will be tested using continuous integration tool Travis-CI.
 
 
