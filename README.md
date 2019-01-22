@@ -38,10 +38,22 @@ After successful completion of this course, students will be able to…
 ## GRADING PROCEDURES
 Grades will be based on:
 * Assignments 		                    (30 %)
-* Project		                          (40 %)
+* Individial Project		              (40 %)
 * Final Exam		                      (30 %)
 
 Late Policy: Assignments submitted after the deadline within a week will be graded half. They will not be graded after a week.
+
+## IMPORTANT DATES
+* Deadline for Project Proposals 02/15/2019 Friday at 5pm ET
+ - This includes creation of a github repository with READ.md file that contains the summary of the project.
+ - Late submissions will lose 30 points from their grade for the project.
+* Deadline for Projects 04/26/2019 Friday at 5pm ET
+ - Projects will be graded based on
+  - the organization of the github repository (30 %)
+  - organization of the code                  (20 %)
+  - the quality of the code                   (20 %)
+  - inclusion of test codes                   (20 %)
+  - reproducibility                           (10 %)
 
 ## ACADEMIC INTEGRITY 
 
