@@ -6,7 +6,8 @@ Electrical and Computer Engineering Spring 2019 at Stevens Institute of Technolo
 * **Instructor:** 		Assistant Prof. Sergul Aydore 	
 * **Contact Info:** 		Burchard Building 211, saydore@stevens.edu
 * **Teaching Assistants:**   Dov Neimand (kayakdov@gmail.com), Yangyang Tao (ytao13@stevens.edu)
-* **Office Hours:**		Wednesdays at 1.00pm-3.00pm
+* **Office Hours:**		
+  * Sergul Aydore: Burchard Building 211, Wednesdays at 1.00pm-3.00pm
 * **Course Web Address:**	https://github.com/sergulaydore/EE551-Spring-2018
 * **Cross-listed with:** 	CPE 551
 
