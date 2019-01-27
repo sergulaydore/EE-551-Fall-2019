@@ -1,0 +1,5 @@
+.DS_Store
+*.pptx
+.idea
+__pycache__
+.ipynb_checkpoints
