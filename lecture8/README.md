@@ -1,6 +1,6 @@
 # Lecture 8
 
-In this class we will cover:
+In this class we covered:
 
 - Solutions for Homework 4
 - Function Basics
