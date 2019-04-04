@@ -1,6 +1,6 @@
 # Lecture 9
 
-In this class we will cover:
+In this class we covered:
 
 - Recursive Functions
 - Anonymous Functions: Lambda
