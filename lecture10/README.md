@@ -1,7 +1,8 @@
 # Lecture 10
 
-In this class we will cover:
+In this class we covered:
 
+- Solutions for Homework 5
 - Object Oriented Programming
 - Class Coding Basics
 
