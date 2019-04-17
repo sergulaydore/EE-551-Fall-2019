@@ -57,6 +57,7 @@ Late Policy: Assignments submitted after the deadline within a week will be grad
     - the quality of the code                   (20 %)
     - inclusion of test codes                   (20 %)
     - reproducibility                           (10 %)
+* Final exam date: **05/15/2019 Wednesday at 3pm ET (session A), 6.30pm ET (session A)**
 
 ## ACADEMIC INTEGRITY 
 
