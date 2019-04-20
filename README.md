@@ -8,7 +8,7 @@ Electrical and Computer Engineering Spring 2019 at Stevens Institute of Technolo
 * **Teaching Assistants:**   Dov Neimand (kayakdov@gmail.com), Hongtao Xia (hxia4@stevens.edu)
 * **Office Hours:**		
   * Sergul Aydore: Burchard Building 211, Wednesdays at 1.00pm-3.00pm
-  * Dov Neimand: Burchard Building 414, Thursdays 14.00pm – 15.00pm
+  * Dov Neimand: Burchard Building 215, Thursdays 14.00pm – 15.00pm
   * Hongtao Xia: Burchard Building 200, Tuesdays 10.00am – 11.00am
 * **Course Web Address:**	https://github.com/sergulaydore/EE551-Spring-2019
 * **Cross-listed with:** 	CPE 551
