@@ -1,5 +1,6 @@
 # Lecture 12
 In this lecture, we will cover:
+- Solutions for Homework 7
 - Queues
 - Trees
 - Indexing, Slicing, Filtering, Computing Statistics in Pandas
