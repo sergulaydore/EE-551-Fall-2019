@@ -1,16 +1,16 @@
 # Engineering Programming: Python EE 551
 Electrical and Computer Engineering Spring 2019 at Stevens Institute of Technology
 
-* **Meeting Times:** 	Wednesdays at 3.00pm-5.30pm (session A) and 6.30pm-9.00pm (session B)
-* **Classroom Location:**	Main Campus, BC 319 (session A) and X 106 (session B)
+* **Meeting Times:** 	Thursdays at 6.30pm-9pm 
+* **Classroom Location:**	Main Campus, X 106
 * **Instructor:** 		Assistant Prof. Sergul Aydore 	
 * **Contact Info:** 		Burchard Building 211, saydore@stevens.edu
-* **Teaching Assistants:**   Dov Neimand (kayakdov@gmail.com), Hongtao Xia (hxia4@stevens.edu)
+* **Teaching Assistant:**   Liyan Chen (lchen39@stevens.edu)
 * **Office Hours:**		
-  * Sergul Aydore: Burchard Building 211, Wednesdays at 1.00pm-3.00pm
-  * Dov Neimand: Burchard Building 215, Thursdays 14.00pm – 15.00pm
-  * Hongtao Xia: Burchard Building 200, Tuesdays 10.00am – 11.00am
-* **Course Web Address:**	https://github.com/sergulaydore/EE551-Spring-2019
+  * Sergul Aydore: Burchard Building 211, Thursdays at 1.00pm-3.00pm
+  * Liyan Chen: TBA
+
+* **Course Web Address:**	https://github.com/sergulaydore/EE551-Fall-2019
 * **Cross-listed with:** 	CPE 551
 
 ## COURSE DESCRIPTION
@@ -18,7 +18,7 @@ Electrical and Computer Engineering Spring 2019 at Stevens Institute of Technolo
 This course presents fundamentals of Python programming language for data intensive applications and decision making. The course formally introduces industry level tools for the best practices of software engineering using Python. Such tools find applicability in many engineering application areas, including data science, machine learning, communications systems, embedded systems, smart grids, robotics, Internet, and enterprise  networks, or any network where information flows and alters decision making.
 
 ## STUDENT LEARNING OUTCOMES
-After successful completion of this course, students will be able to…
+After successful completion of this course, students will be able to
 *	program basic algorithms in Python,
 *	extract and analyze data in Python,
 *	prepare for their future career in Technology related fields.
@@ -44,20 +44,20 @@ Grades will be based on:
 * Individial Project		              (40 %)
 * Final Exam		                      (30 %)
 
-Late Policy: Assignments submitted after the deadline within a week will be graded half. They will not be graded after a week.
+Late Policy: Assignments submitted after the deadline will not be graded.
 
 ## IMPORTANT DATES
-* Deadline for Project Proposals **02/15/2019 Friday at 5pm ET**
+* Deadline for Project Proposals **11/01/2019 Friday at 5pm ET**
   - This includes creation of a github repository with READ.md file that contains the summary of the project.
-  - Late submissions will lose 30 points from their grade for the project.
-* Deadline for Projects **04/26/2019 Friday at 5pm ET**
+  - Late submissions or repositories with empty READ.md file will lose 30 points from their grade for the project.
+* Deadline for Projects **12/02/2019 Monday at 5pm ET**
   - Projects will be graded based on
     - organization of the github repository     (30 %)
     - organization of the code                  (20 %)
     - the quality of the code                   (20 %)
     - inclusion of test codes                   (20 %)
     - reproducibility                           (10 %)
-* Final exam date: **05/15/2019 Wednesday at 3pm ET (session A), 6.30pm ET (session A)**
+* Final exam date: **TBA**
 
 ## ACADEMIC INTEGRITY 
 
