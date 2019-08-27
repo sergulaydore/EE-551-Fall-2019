@@ -8,8 +8,7 @@ Electrical and Computer Engineering Spring 2019 at Stevens Institute of Technolo
 * **Teaching Assistant:**   Liyan Chen (lchen39@stevens.edu)
 * **Office Hours:**		
   * Sergul Aydore: Burchard Building 211, Thursdays at 1.00pm-3.00pm
-  * Liyan Chen: TBA
-
+  * Liyan Chen: Burchard Building 315, Mondays and Wednesdays at 1.00pm-5.00pm
 * **Course Web Address:**	https://github.com/sergulaydore/EE551-Fall-2019
 * **Cross-listed with:** 	CPE 551
 
