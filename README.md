@@ -1,5 +1,5 @@
 # Engineering Programming: Python EE 551
-Electrical and Computer Engineering Spring 2019 at Stevens Institute of Technology
+Electrical and Computer Engineering Fall 2019 at Stevens Institute of Technology
 
 * **Meeting Times:** 	Thursdays at 6.30pm-9pm 
 * **Classroom Location:**	Main Campus, X 106
