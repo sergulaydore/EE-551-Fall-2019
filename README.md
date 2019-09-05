@@ -5,10 +5,10 @@ Electrical and Computer Engineering Fall 2019 at Stevens Institute of Technology
 * **Classroom Location:**	Main Campus, X 106
 * **Instructor:** 		Assistant Prof. Sergul Aydore 	
 * **Contact Info:** 		Burchard Building 211, saydore@stevens.edu
-* **Teaching Assistant:**   Liyan Chen (lchen39@stevens.edu)
+* **Teaching Assistant:**   Bingyang Wen (bwen4@stevens.edu)
 * **Office Hours:**		
   * Sergul Aydore: Burchard Building 211, Thursdays at 1.00pm-3.00pm
-  * Liyan Chen: Burchard Building 315, Mondays and Wednesdays at 1.00pm-3.00pm
+  * Bingyang Wen: Burchard Building 315, Mondays and Thursday at 1.00pm-3.00pm
 
 * **Course Web Address:**	https://github.com/sergulaydore/EE551-Fall-2019
 * **Cross-listed with:** 	CPE 551
