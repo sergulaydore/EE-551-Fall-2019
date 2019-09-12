@@ -2,7 +2,7 @@
 Electrical and Computer Engineering Fall 2019 at Stevens Institute of Technology
 
 * **Meeting Times:** 	Thursdays at 6.30pm-9pm 
-* **Classroom Location:**	Main Campus, X 106
+* **Classroom Location:**	Babbio Center, Room 319
 * **Instructor:** 		Assistant Prof. Sergul Aydore 	
 * **Contact Info:** 		Burchard Building 211, saydore@stevens.edu
 * **Teaching Assistant:**   Bingyang Wen (bwen4@stevens.edu)
