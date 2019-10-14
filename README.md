@@ -8,7 +8,7 @@ Electrical and Computer Engineering Fall 2019 at Stevens Institute of Technology
 * **Teaching Assistant:**   Bingyang Wen (bwen4@stevens.edu)
 * **Office Hours:**		
   * Sergul Aydore: Burchard Building 211, Thursdays at 1.00pm-3.00pm
-  * Bingyang Wen: Burchard Building 315, Mondays at 1.00pm-3.00pm and Wednesdays at 3.00pm-5.00pm
+  * Bingyang Wen: Burchard Building 315, Mondays at 2.30pm-4.30pm and Wednesdays at 3.00pm-5.00pm
 
 * **Course Web Address:**	https://github.com/sergulaydore/EE551-Fall-2019
 * **Cross-listed with:** 	CPE 551
