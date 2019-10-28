@@ -57,7 +57,7 @@ Late Policy: Assignments submitted after the deadline will not be graded.
     - the quality of the code                   (20 %)
     - inclusion of test codes                   (20 %)
     - reproducibility                           (10 %)
-* Final exam date: **TBA**
+* Final exam date: **12/12/2019 Thursday at 6.30pm in BC 319 **
 
 ## ACADEMIC INTEGRITY 
 
